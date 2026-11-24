@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yashraj 👋
+<img src="assets/hero.svg" width="100%" alt="Yashraj Ayaskanta Garnayak, Cloud and DevOps, M.Sc. High Integrity Systems at Frankfurt UAS. Animated header with a drifting gradient and a small network of connected nodes." />
 
 <a href="https://github.com/Yashraj-Garnayak">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+%7C+AWS+%C2%B7+Terraform+%C2%B7+Kubernetes;M.Sc.+High+Integrity+Systems+%40+Frankfurt+UAS;Open+to+Werkstudent+roles+in+Germany" alt="Typing intro" width="100%" />
@@ -54,6 +54,15 @@ Replays **real Meta CDN traces** (3 edge clusters, ~57M requests → 2.9M hourly
 | 🏆 [**Tile Rush: Adaptive Reflex Trainer**](https://github.com/Yashraj-Garnayak/Brain_1_hackathon) | 1st place, Brain1 Hackathon. Team of four; web + Android game on one shared API |
 | [**Three-Tier App on AWS**](https://github.com/Yashraj-Garnayak/three-tier-project) <sub>(course-based)</sub> | Terraform for a Jenkins server on AWS (VPC, subnet, IGW, route table, SG, EC2, IAM) + Kubernetes manifests |
 | [**Two-Tier Flask App**](https://github.com/Yashraj-Garnayak/two-tier-flask-app) <sub>(course-based)</sub> | Docker + Jenkins CI/CD pipeline |
+
+---
+
+## ☁️ DevOps concepts in motion
+
+<p align="center">
+  <img src="assets/alb.svg" width="430" alt="Animation: an Application Load Balancer rotates requests across three servers, routes /api and /images to separate target groups, stops sending traffic to a server that fails its health check, and resumes when it recovers." />
+  <img src="assets/asg.svg" width="430" alt="Animation: an Auto Scaling Group adds a third EC2 instance when CPU passes 70 percent and a CloudWatch alarm fires, then scales back in when traffic drops. Desired capacity goes 2, 3, 2 within min 2 and max 4." />
+</p>
 
 ---
 
@@ -114,6 +123,17 @@ Replays **real Meta CDN traces** (3 edge clusters, ~57M requests → 2.9M hourly
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj-Garnayak&layout=compact&hide_border=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj-Garnayak&layout=compact&hide_border=true" alt="Top languages" width="49%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashraj-Garnayak/Yashraj-Garnayak/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Yashraj-Garnayak/Yashraj-Garnayak/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
